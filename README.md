@@ -16,27 +16,27 @@
 🎓 Fourth Year Computer Science Student at Ain Shams University.  
 📌 Lives in Cairo, Egypt.   
 <h2 align = "left"> 🧠 skills</h2>
- - Problem Solving Skills.
-	* [Codeforces](https://codeforces.com/profile/Papa_Smurf)
-	* [atcoder](https://atcoder.jp/users/100_IQ)
-	* [leetcode](https://leetcode.com/amryassen/)
- - Algorithms.
- - Data Structures.
- - OOP Concepts and Design Patterns.
- - .Net Core
- - Android Development
- - Machine Learning and Deep Learning.
- - Databases such as ( SQL Server, Oracle SQL, SqLite, Firebase).
+ Problem Solving Skills.<br />
+	* Codeforces : https://codeforces.com/profile/Papa_Smurf <br />
+	* atcoder : https://atcoder.jp/users/100_IQ <br />
+	* leetcode : https://leetcode.com/amryassen/ <br />
+ Algorithms.<br />
+ Data Structures.<br />
+ OOP Concepts and Design Patterns.<br />
+ .Net Core<br />
+ Android Development<br />
+ Machine Learning and Deep Learning.<br />
+ Databases such as ( SQL Server, Oracle SQL, SqLite, Firebase).<br />
  <h2 align = "left"> Certificates</h2>
- - [12th place at Egyptian Collegiate Programming - Africa and Arab Collegiate Programming Contest](https://drive.google.com/file/d/1lvqbhlynTqaId_l_tqdd_xW5SxgbFCoK/view?usp=sharing)
- - [10th place at Egyptian Collegiate Programming - Africa and Arab Collegiate Programming Contest](https://drive.google.com/file/d/1LoyHDkJKbc8oakrv1p8SIat82L_r2vn3/view?usp=sharing)
- - [1638th place at Kick Start Contest - Google](https://drive.google.com/file/d/1-LTpABD0ct_6CvTSC9t_PUdz59hDGydG/view?usp=sharing)
- - [2800th place at Hash Code - Google](https://drive.google.com/file/d/1-R7ivjKhoRLhZPvmTjSwPDB9TBqQ1JXH/view?usp=sharing)
- - [5230th place at Code Jam - Google](https://drive.google.com/file/d/1-MdnqB6WrhaipTaPGLLzuzVGZrgM6loA/view?usp=sharing)
+ - 12th place at Africa and Arab Collegiate Programming Contest 2021: https://drive.google.com/file/d/1lvqbhlynTqaId_l_tqdd_xW5SxgbFCoK/view?usp=sharing <br />
+ - 10th place at Africa and Arab Collegiate Programming Contest 2020: https://drive.google.com/file/d/1LoyHDkJKbc8oakrv1p8SIat82L_r2vn3/view?usp=sharing <br />
+ - 1638th place at Kick Start Contest - Google: https://drive.google.com/file/d/1-LTpABD0ct_6CvTSC9t_PUdz59hDGydG/view?usp=sharing <br />
+ - 2800th place at Hash Code - Google: https://drive.google.com/file/d/1-R7ivjKhoRLhZPvmTjSwPDB9TBqQ1JXH/view?usp=sharing <br />
+ - 5230th place at Code Jam - Google : https://drive.google.com/file/d/1-MdnqB6WrhaipTaPGLLzuzVGZrgM6loA/view?usp=sharing <br />
  <h2 align = "left"> Interested In</h2>
- - .Net Core
- - Problem Solving
- - Android Development
+ .Net Core <br />
+ Problem Solving <br />
+ Android Development <br />
 
 
 ### Contact with me:
