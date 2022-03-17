@@ -22,7 +22,7 @@
 	* leetcode : https://leetcode.com/amryassen/ <br />
  Algorithms.<br />
  Data Structures.<br />
- OOP Concepts and Design Patterns.<br />
+ OOP Concepts<br />
  .Net Core<br />
  Android Development<br />
  Machine Learning and Deep Learning.<br />
