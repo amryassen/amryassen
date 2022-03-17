@@ -3,7 +3,8 @@
 <h3 align="center">Senior Software Engineer</h3>
 <h3 align="center">Faculty of Computer and Information Science</h3>
 <h3 align="center">Ain Shams University</h3>
-
+<h3 align = "center"> Resume link </h3>
+<h2 align = "left"> https://drive.google.com/file/d/1GifEjZudCQfA2c-TuaI-V4lC8OWQjKzk/view?usp=sharing </h2>
 ![](https://komarev.com/ghpvc/?username=amryassen)
 
 <img src="https://github-readme-stats.vercel.app/api?username=amryassen&show_icons=true&title_color=FF2E63&icon_color=bb2acf&text_color=57D1C9&bg_color=151515" align="left" width="450"/>
@@ -22,12 +23,11 @@
 	* leetcode : https://leetcode.com/amryassen/ <br />
  Algorithms.<br />
  Data Structures.<br />
- OOP Concepts<br />
- basics .Net knowledge<br />
- basics node.js knowledge<br />
+ OOP Concepts and Design Patterns.<br />
+ .Net Core<br />
  Android Development<br />
  Machine Learning and Deep Learning.<br />
- Worked with Databases such as ( SQL Server, Oracle SQL, SqLite, Firebase).<br />
+ Databases such as ( SQL Server, Oracle SQL, SqLite, Firebase).<br />
  <h2 align = "left"> Certificates</h2>
  - 12th place at Africa and Arab Collegiate Programming Contest 2021: https://drive.google.com/file/d/1lvqbhlynTqaId_l_tqdd_xW5SxgbFCoK/view?usp=sharing <br />
  - 10th place at Africa and Arab Collegiate Programming Contest 2020: https://drive.google.com/file/d/1LoyHDkJKbc8oakrv1p8SIat82L_r2vn3/view?usp=sharing <br />
@@ -36,10 +36,8 @@
  - 5230th place at Code Jam - Google : https://drive.google.com/file/d/1-MdnqB6WrhaipTaPGLLzuzVGZrgM6loA/view?usp=sharing <br />
  <h2 align = "left"> Interested In</h2>
  .Net Core <br />
- Android Development <br />
- Back-end development with node.js<br/>
- Machine Learning <br/>
  Problem Solving <br />
+ Android Development <br />
 
 
 ### Contact with me:
