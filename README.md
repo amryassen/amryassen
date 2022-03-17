@@ -37,7 +37,10 @@
  <h2 align = "left"> Interested In</h2>
  .Net Core <br />
  Problem Solving <br />
+ Machine Learning <br/>
  Android Development <br />
+ Back-end Development <br />
+ 
 
 
 ### Contact with me:
