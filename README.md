@@ -4,7 +4,7 @@
 <h3 align="center">Faculty of Computer and Information Science</h3>
 <h3 align="center">Ain Shams University</h3>
 <h3 align = "center"> Resume link </h3>
-![](https://komarev.com/ghpvc/?username=amryassen)
+<h5 align = "left"> https://drive.google.com/file/d/1GifEjZudCQfA2c-TuaI-V4lC8OWQjKzk/view?usp=sharing </h5>
 
 <img src="https://github-readme-stats.vercel.app/api?username=amryassen&show_icons=true&title_color=FF2E63&icon_color=bb2acf&text_color=57D1C9&bg_color=151515" align="left" width="450"/>
 
