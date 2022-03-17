@@ -35,6 +35,8 @@
  - 5230th place at Code Jam - Google : https://drive.google.com/file/d/1-MdnqB6WrhaipTaPGLLzuzVGZrgM6loA/view?usp=sharing <br />
  <h2 align = "left"> Interested In</h2>
  .Net Core <br />
+ Machine Learning <br/>
+ Back-end development with node.js
  Problem Solving <br />
  Android Development <br />
 
