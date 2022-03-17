@@ -27,7 +27,7 @@
  Machine Learning and Deep Learning.<br />
  basics .Net Core<br />
  worked with node.js a little<br />
- Worked with Databases such as ( SQL Server, Oracle SQL, SqLite, Firebase).<br />
+ worked with Databases such as ( SQL Server, Oracle SQL, SqLite, Firebase).<br />
  <h2 align = "left"> Certificates</h2>
  - 12th place at Africa and Arab Collegiate Programming Contest 2021: https://drive.google.com/file/d/1lvqbhlynTqaId_l_tqdd_xW5SxgbFCoK/view?usp=sharing <br />
  - 10th place at Africa and Arab Collegiate Programming Contest 2020: https://drive.google.com/file/d/1LoyHDkJKbc8oakrv1p8SIat82L_r2vn3/view?usp=sharing <br />
