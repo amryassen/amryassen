@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Amr Yassen 👋 </h1>
 
-<h3 align="center">Senior Software Engineer</h3>
+<h3 align="center">Junior Software Engineer</h3>
 <h3 align="center">Faculty of Computer and Information Science</h3>
 <h3 align="center">Ain Shams University</h3>
 <h3 align = "center"> Resume link </h3>
