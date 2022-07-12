@@ -22,12 +22,15 @@
 	* leetcode : https://leetcode.com/amryassen/ <br />
  Algorithms.<br />
  Data Structures.<br />
- OOP Concepts<br />
+ OOP <br />
  Back-end Development<br />
- Android Development <br />
- Machine Learning and Deep Learning.<br />
  node.js with Express framework<br />
  worked with Databases such as ( My SQL, MongoDP, Firebase).<br />
+ Android Development <br />
+ Machine Learning and Deep Learning.<br />
+ 
+ <h3>Seeking for a full-time position as a Back-end developer with Node.js(Express) <h3/>
+ 
  <h2 align = "left"> Certificates</h2>
  - 12th place at Africa and Arab Collegiate Programming Contest 2021: https://drive.google.com/file/d/1lvqbhlynTqaId_l_tqdd_xW5SxgbFCoK/view?usp=sharing <br />
  - 10th place at Africa and Arab Collegiate Programming Contest 2020: https://drive.google.com/file/d/1LoyHDkJKbc8oakrv1p8SIat82L_r2vn3/view?usp=sharing <br />
@@ -41,7 +44,6 @@
  Machine Learning <br/>
  Android Development <br /> 
  
- <h3>Seeking for a full-time position as a Back-end developer with Node.js(Express) <h3/>
 
 
 ### Contact with me:
