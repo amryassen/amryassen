@@ -23,11 +23,11 @@
  Algorithms.<br />
  Data Structures.<br />
  OOP Concepts<br />
- Strong Android Development skill<br />
+ Back-end Development<br />
+ Android Development <br />
  Machine Learning and Deep Learning.<br />
- basics .Net Core<br />
- worked with node.js a little<br />
- worked with Databases such as ( SQL Server, Oracle SQL, SqLite, Firebase).<br />
+ node.js with Express framework<br />
+ worked with Databases such as ( My SQL, MongoDP, Firebase).<br />
  <h2 align = "left"> Certificates</h2>
  - 12th place at Africa and Arab Collegiate Programming Contest 2021: https://drive.google.com/file/d/1lvqbhlynTqaId_l_tqdd_xW5SxgbFCoK/view?usp=sharing <br />
  - 10th place at Africa and Arab Collegiate Programming Contest 2020: https://drive.google.com/file/d/1LoyHDkJKbc8oakrv1p8SIat82L_r2vn3/view?usp=sharing <br />
@@ -35,12 +35,13 @@
  - 2800th place at Hash Code - Google: https://drive.google.com/file/d/1-R7ivjKhoRLhZPvmTjSwPDB9TBqQ1JXH/view?usp=sharing <br />
  - 5230th place at Code Jam - Google : https://drive.google.com/file/d/1-MdnqB6WrhaipTaPGLLzuzVGZrgM6loA/view?usp=sharing <br />
  <h2 align = "left"> Interested In</h2>
- .Net Core <br />
+ Back-end development <br />
+ Node.js with Express framework<br />
  Problem Solving <br />
  Machine Learning <br/>
- Android Development <br />
- Back-end Development <br />
+ Android Development <br /> 
  
+ <h3>Seeking for a full-time position as a Back-end developer with Node.js(Express) <h3/>
 
 
 ### Contact with me:
