@@ -17,12 +17,7 @@
  - 1638th place at Kick Start Contest - Google: https://drive.google.com/file/d/1-LTpABD0ct_6CvTSC9t_PUdz59hDGydG/view?usp=sharing <br />
  - 2800th place at Hash Code - Google: https://drive.google.com/file/d/1-R7ivjKhoRLhZPvmTjSwPDB9TBqQ1JXH/view?usp=sharing <br />
  - 5230th place at Code Jam - Google : https://drive.google.com/file/d/1-MdnqB6WrhaipTaPGLLzuzVGZrgM6loA/view?usp=sharing <br />
- <h2 align = "left"> Interested In</h2>
- Back-end development <br />
- Node.js with Express framework<br />
- Problem Solving <br />
- Machine Learning <br/>
- Android Development <br /> 
+
  
 
 
