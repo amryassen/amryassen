@@ -1,35 +1,15 @@
 <h1 align="center"> Hi there, I'm Amr Yassen 👋 </h1>
 
-<h3 align="center">Junior Software Engineer at bld.ai</h3>
+<h3 align="center">Mid-Level Java Developer at EJADA</h3>
 <h3 align="center">Faculty of Computer and Information Science</h3>
 <h3 align="center">Ain Shams University</h3>
-<h3 align = "center"> Resume link </h3>
-<h5 align = "center">https://drive.google.com/file/d/1NeorxWZW8Z1RH0B2YQBqGAIjeKDM5vV5/view?usp=sharing </h5>
+<h3 align = "center">Resume link </h3>
+<h5 align = "center">https://drive.google.com/file/d/1ilw-kddYM7ABonJdDwAEzCNTJ7aNDA17/view?usp=sharing</h5>
 
 <img src="https://github-readme-stats.vercel.app/api?username=amryassen&show_icons=true&title_color=FF2E63&icon_color=bb2acf&text_color=57D1C9&bg_color=151515" align="left" width="450"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amryassen&layout=compact&&title_color=FF2E63&text_color=57D1C9&bg_color=151515)](https://github.com/amryassen)
 
-
-<h2 align = "left"> About Me</h2>
-
-🎓 Fourth Year Computer Science Student at Ain Shams University.  
-📌 Lives in Cairo, Egypt.   
-<h2 align = "left"> 🧠 skills</h2>
- Problem Solving Skills.<br />
-	* Codeforces : https://codeforces.com/profile/Papa_Smurf <br />
-	* atcoder : https://atcoder.jp/users/100_IQ <br />
-	* leetcode : https://leetcode.com/amryassen/ <br />
- Algorithms.<br />
- Data Structures.<br />
- OOP <br />
- Back-end Development<br />
- node.js with Express framework<br />
- worked with Databases such as ( My SQL, MongoDP, Firebase).<br />
- Android Development <br />
- Machine Learning and Deep Learning.<br />
- 
- <h3>Seeking for a full-time position as a Back-end developer with Node.js(Express) <h3/>
  
  <h2 align = "left"> Certificates</h2>
  - 12th place at Africa and Arab Collegiate Programming Contest 2021: https://drive.google.com/file/d/1lvqbhlynTqaId_l_tqdd_xW5SxgbFCoK/view?usp=sharing <br />
